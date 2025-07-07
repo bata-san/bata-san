@@ -1,4 +1,4 @@
-# bata-san
+# Butter
 
 <div align="center">
 
@@ -10,6 +10,9 @@
 <img src="https://skillicons.dev/icons?i=unity,blender,vscode,rider,cs,py,cpp&theme=light&perline=7" />
 
 <br><br>
+
+**高校生の見習いプログラマー/モデラーです**
+
 </div>
 
 ---
@@ -25,16 +28,7 @@
 ---
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-CLICK!!-EA4335?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FFFFFF"/>
-  </a>
   <a href="https://twitter.com/bata__san">
     <img src="https://img.shields.io/badge/X-@bata__san-4285F4?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-CONTACT-FBBC05?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFFFFF"/>
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-bata__san%230000-34A853?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
