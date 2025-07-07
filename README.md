@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <a href="https://twitter.com/bata__san">
+  <a href="https://twitter.com/butter91138">
     <img src="https://img.shields.io/badge/X-@Butter91138-4285F4?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
